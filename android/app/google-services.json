@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365239488057",
+    "project_id": "safe-link-vpn",
+    "storage_bucket": "safe-link-vpn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365239488057:android:fe89916f0f133f57d6c7e8",
+        "android_client_info": {
+          "package_name": "com.example.virtual_private_network"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKgvgpyFCUVbKv37GibebvnPe6jIT9OPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
